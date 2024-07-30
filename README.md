@@ -1,4 +1,4 @@
----
+
 title: "Design Patterns in C#"
 description: "A comprehensive guide to understanding and implementing key design patterns in C#."
 image: "https://example.com/design-patterns-image.png"  <!-- Replace with an actual image URL -->
